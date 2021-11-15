@@ -15,5 +15,5 @@ Loops created with U&I MetaSynth.
 **Support this project**
 
 [
-![enter image description here](https://www.modularsamples.com/img/4d4cb575366005157970186bb171da8f6b6b8bb857dcdd1f8e93774cc5f0900d.png)
+![enter image description here](https://www.modularsamples.com/img/mf.png)
 ](https://modularsamples.gumroad.com/l/TdDvx)
